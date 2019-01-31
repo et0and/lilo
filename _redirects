@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-https://mystifying-lumiere-5c380c.netlify.com/* https://list.thac.xyz/:splat 301!
+https://mystifying-lumiere-5c380c.netlify.com/* https://artists.thac.xyz/:splat 301!
